@@ -5,7 +5,7 @@
 
 <!-- Dynamic Cyber Typing HUD -->
 <a href="https://github.com/dev-nizar-hub">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=ARCHITECTING+HIGH-CONCURRENCY+SAAS+PLATFORMS;ENGINEERING+MISSION-CRITICAL+ENTERPRISE+SYSTEMS;BRIDGING+FULL-STACK+ARCHITECTURES+WITH+AI+VISION;OBSIDIAN+LOGIC+·+HIGH-PERFORMANCE+EXECUTION" alt="Typing Matrix" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=ARCHITECTING%20HIGH-CONCURRENCY%20SAAS%20PLATFORMS;ENGINEERING%20MISSION-CRITICAL%20ENTERPRISE%20SYSTEMS;BRIDGING%20FULL-STACK%20WITH%20MULTIMODAL%20AI;OBSIDIAN%20LOGIC%20-%20HIGH-PERFORMANCE%20EXECUTION" alt="Typing Matrix" />
 </a>
 
 <p align="center">
