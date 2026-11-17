@@ -1,104 +1,98 @@
-<div align="center">
-
-<!-- Futuristic Cybernetic Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:030712,30:0f172a,70:0284c7,100:00f0ff&height=220&section=header&text=MAJD%20NIZAR%20YOUBINE&fontSize=40&fontAlignY=38&desc=FULL-STACK%20ARCHITECT%20%7C%20SYSTEMS%20ENGINEER&descAlignY=62&descSize=16&fontColor=ffffff&stroke=00f0ff&strokeWidth=1" width="100%" alt="Majd Nizar Youbine Header" />
-
-<!-- Dynamic Cyber Typing HUD -->
-<a href="https://github.com/dev-nizar-hub">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=ARCHITECTING%20HIGH-CONCURRENCY%20SAAS%20PLATFORMS;ENGINEERING%20MISSION-CRITICAL%20ENTERPRISE%20SYSTEMS;BRIDGING%20FULL-STACK%20WITH%20MULTIMODAL%20AI;OBSIDIAN%20LOGIC%20-%20HIGH-PERFORMANCE%20EXECUTION" alt="Typing Matrix" />
-</a>
+# Hey <img height="30px" width="30px" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="dev" /> I'm Majd Nizar Youbine
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20ARCHITECT-00f0ff?style=for-the-badge&logo=codepen&logoColor=black" />
-  <img src="https://img.shields.io/badge/SYSTEMS-ENTERPRISE%20SAAS-0284c7?style=for-the-badge&logo=serverfault&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-10b981?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img alt="Creative Dev Banner" width="100%" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" />
 </p>
 
-</div>
+## 📌 About Me
+
+- 🧠 **Creative Full-Stack Engineer** blending design, AI, and robust systems architecture to build intelligent, high-performance interfaces.
+- 🚀 Passionate about next-gen UI ergonomics, multi-tenant cloud SaaS, and autonomous multimodal AI workflows.
+- 💡 Actively engineering production-grade software: from real-time restaurant POS reactors to high-security judicial platforms.
+- 🛠️ Currently focused on **PHP 8.2**, **Python**, **MySQL**, **Tailwind CSS**, and **Google Gemini Multimodal AI**.
 
 ---
 
-### ⚡ EXECUTIVE OVERVIEW
+## 📊 GitHub Stats & Activity
 
-> *"If software does not solve a high-stakes, real-world operational problem, it is merely decorative code."*
+<p align="center">
+  <img alt="Majd Nizar's GitHub Stats" width="49%" src="https://www.gitskins.com/api/section/stats?username=dev-nizar-hub&theme=github-dark&mode=dark" />
+  <img alt="Majd Nizar's GitHub Streak" width="49%" src="https://streak-stats.demolab.com/?user=dev-nizar-hub&theme=nightowl&hide_border=true&cache_seconds=86400" />
+</p>
 
-I design, architect, and deploy end-to-end software platforms that real businesses depend on daily. My core engineering focus lies at the convergence of **high-throughput backend architecture**, **ergonomic spatial user experience**, and **autonomous AI automation pipelines**.
+<p align="center">
+  <img alt="Top Languages" src="https://www.gitskins.com/api/section/stack?username=dev-nizar-hub&theme=github-dark&mode=dark" />
+</p>
 
-- 🏢 **Multi-Tenant SaaS Platforms:** Real-time restaurant POS & kitchen dispatch reactors (`RestoOS / M39ODA`).
-- ⚖️ **Legal-Tech & High-Security Registries:** Sovereign judicial case management, cryptographic PIN audits, and multimedia evidence vaults.
-- 👁️ **Multimodal AI Integration:** Leveraging computer vision, OCR, and speech-to-text to turn physical papers, documents, and voice notes into structured data.
-
----
-
-### ⚡ CORE ENGINEERING CAPABILITIES MATRIX
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                      ⚡ CORE ENGINEERING CAPABILITIES MATRIX                      ║
-╠═══════════════════════════════════════════════════════════════════════════════════╣
-║  • SPECIALIZATION        : Full-Stack SaaS Platforms & System Architecture        ║
-║  • BACKEND RIGOR         : High-Concurrency PHP 8.2 · Python 3.12 · REST APIs     ║
-║  • DATA ARCHITECTURE     : MySQL 8.0 (InnoDB) · Relational Design · Audit Trails ║
-║  • FRONTEND ERGONOMICS   : Tailwind CSS · Vanilla ES6+ · High-Speed Vector UI    ║
-║  • ADVANCED AUTOMATION   : Multimodal Vision OCR · AI Agents · Workflow Pipelines║
-║  • OPERATIONAL STATUS    : 100% Production-Grade · Zero Compromises on Security   ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img alt="Contribution Snake Graph" src="https://www.gitskins.com/api/section/heatmap?username=dev-nizar-hub&theme=github-dark&mode=dark&style=snake" />
+</p>
 
 ---
 
-### 🛠️ TACTICAL ARSENAL & WEAPONS OF CHOICE
+## 🛠️ Languages & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,mysql,tailwind,linux,git,docker,postman,vscode&theme=dark" alt="Skills" />
-</div>
+> ### 💻 Programming Languages
+<p align="center">
+  <img alt="PHP" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img alt="JavaScript" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="Python" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="TypeScript" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="HTML5" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+</p>
 
-```
-[ BACKEND ]         PHP 8.2 (Modular Architecture) | Python 3.12 | REST APIs | WebSockets
-[ DATABASE ]        MySQL 8.0 (InnoDB) | Tamper-Proof Audit Trails | Optimized Indexing
-[ AI & VISION ]     Google Gemini Multimodal (Vision & Audio OCR) | Automated Pipelines
-[ SECURITY ]        Cryptographic PIN Authentication | CSRF Shields | Rate-Limit Defenses
-[ FRONTEND ]        Tailwind CSS | Vanilla ES6+ Cybernetics | A4 Vector Layout Engines
-[ DEVOPS & INFRA ]  Linux Environments | Hardened Apache (.htaccess) | Git Workflow
-```
+> ### 🎨 Frontend & Design
+<p align="center">
+  <img alt="Tailwind CSS" width="48" height="48" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img alt="Bootstrap" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
+  <img alt="Figma" width="48" height="48" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+</p>
+
+> ### ⚙️ Backend, Databases & AI
+<p align="center">
+  <img alt="MySQL" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="SQLite" width="48" height="48" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
+  <img alt="Docker" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="Linux" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img alt="Git" width="48" height="48" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img alt="Postman" width="48" height="48" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img alt="VS Code" width="48" height="48" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+</p>
 
 ---
 
-### 📂 FLAGSHIP SYSTEMS & CASE STUDIES
+## 🚀 Featured Systems & Flagship Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">⚡ PROJECT 01 // DIRECTEUR</h4>
-      <p align="center"><strong>SOVEREIGN JUDICIAL REGISTER & EVIDENCE VAULT</strong></p>
-      <p>Mission-critical legal platform compliant with Moroccan <strong>Law 46.21</strong> for bailiff chambers. Features real-time Excel-speed registers, a 35%/65% split evidence vault for 4K video, audio, & PDF files, and cryptographic PIN audit trails.</p>
-      <p align="center"><code>PHP 8.2</code> · <code>MySQL</code> · <code>Gemini Vision</code> · <code>Tailwind</code></p>
+      <h3 align="center">🍔 RestoOS Cloud (M39ODA)</h3>
+      <p align="center"><strong>Multi-Tenant POS & Real-Time Kitchen Display System (KDS)</strong></p>
+      <p>Cloud-based restaurant operating system engineered for fast-service kitchens with sub-second order dispatch, multi-branch inventory tracking, and touchscreen POS interface.</p>
+      <p align="center"><code>PHP</code> · <code>MySQL</code> · <code>Vanilla JS</code> · <code>REST API</code></p>
+      <p align="center"><a href="https://github.com/dev-nizar-hub/m39oda">View Repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🍔 PROJECT 02 // RESTOOS (M39ODA)</h4>
-      <p align="center"><strong>MULTI-TENANT POS & KITCHEN DISPLAY REACTOR</strong></p>
-      <p>High-concurrency restaurant cloud operating system. Synchronizes counter transactions to multi-screen Kitchen Display Systems (KDS) with sub-second order dispatch and automated inventory depletion.</p>
-      <p align="center"><code>PHP</code> · <code>MySQL</code> · <code>Vanilla JS</code> · <code>REST API</code></p>
+      <h3 align="center">🏛️ Directeur — Judicial Case & Evidence Vault</h3>
+      <p align="center"><strong>Sovereign Judicial Register & Digital Evidence Management</strong></p>
+      <p>Full-scale legal platform built for Moroccan bailiffs compliant with <strong>Law 46.21</strong>. Features keyboard-first Excel registers, 35%/65% split dossier vault for 4K video, audio, & PDF evidence, and cryptographic PIN audit trails.</p>
+      <p align="center"><code>PHP 8.2</code> · <code>MySQL</code> · <code>Gemini Vision</code> · <code>Tailwind</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 LIVE GIT TELEMETRY & CODING VELOCITY
-
-<div align="center">
+## 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-nizar-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&text_color=94a3b8&icon_color=38bdf8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nizar-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&text_color=94a3b8" width="48%" alt="Top Languages" />
+  <a href="https://github.com/dev-nizar-hub"><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/GitHub.svg" /></a> &nbsp;&nbsp;
+  <a href="mailto:majdnizary@gmail.com"><img alt="Gmail" width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" /></a>
 </p>
-
-</div>
-
----
 
 <div align="center">
   <p><strong>Driven by curiosity. Anchored by production reality.</strong></p>
-  <sub>Designed & engineered with precision by Majd Nizar Youbine · All rights reserved.</sub>
+  <sub>Majd Nizar Youbine · Remixed from <a href="https://www.gitskins.com/templates/community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a></sub>
 </div>
