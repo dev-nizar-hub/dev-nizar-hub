@@ -16,12 +16,12 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img alt="Majd Nizar's GitHub Stats" width="49%" src="https://www.gitskins.com/api/section/stats?username=dev-nizar-hub&theme=github-dark&mode=dark" />
-  <img alt="Majd Nizar's GitHub Streak" width="49%" src="https://streak-stats.demolab.com/?user=dev-nizar-hub&theme=nightowl&hide_border=true&cache_seconds=86400" />
+  <img alt="Majd Nizar's GitHub Stats" width="49%" src="https://www.gitskins.com/api/section/stats?username=dev-nizar-hub&theme=github-dark&mode=dark&cb=2" />
+  <img alt="Majd Nizar's GitHub Streak" width="49%" src="https://streak-stats.demolab.com/?user=dev-nizar-hub&theme=nightowl&hide_border=true&v=2" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://www.gitskins.com/api/section/stack?username=dev-nizar-hub&theme=github-dark&mode=dark" />
+  <img alt="Top Languages" src="https://www.gitskins.com/api/section/stack?username=dev-nizar-hub&theme=github-dark&mode=dark&cb=2" />
 </p>
 
 <p align="center">
