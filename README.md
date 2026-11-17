@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nizar-hub&theme=tokyo-night&hide_border=true&area=true" />
+  <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nizar-hub&theme=tokyo-night&hide_border=true&area=true&utc=1" />
 </p>
 
 ---
