@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img alt="Contribution Snake Graph" src="https://www.gitskins.com/api/section/heatmap?username=dev-nizar-hub&theme=github-dark&mode=dark&style=snake" />
+  <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nizar-hub&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -88,8 +88,8 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/dev-nizar-hub"><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/GitHub.svg" /></a> &nbsp;&nbsp;
-  <a href="mailto:majdnizary@gmail.com"><img alt="Gmail" width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" /></a>
+  <a href="https://github.com/dev-nizar-hub"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;
+  <a href="mailto:majdnizary@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
