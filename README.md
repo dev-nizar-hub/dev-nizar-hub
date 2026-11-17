@@ -17,7 +17,7 @@
 
 <p align="center">
   <img alt="Majd Nizar's GitHub Stats" width="49%" src="https://www.gitskins.com/api/section/stats?username=dev-nizar-hub&theme=github-dark&mode=dark&cb=2" />
-  <img alt="Majd Nizar's GitHub Streak" width="49%" src="https://streak-stats.demolab.com/?user=dev-nizar-hub&theme=nightowl&hide_border=true&v=pulse3" />
+  <img alt="Majd Nizar's GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-nizar-hub&theme=nightowl&hide_border=true" />
 </p>
 
 <p align="center">
