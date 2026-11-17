@@ -1,112 +1,33 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · dev-nizar-hub</sub></p>
-<h1>Majd_nizar_youbine</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<!-- Modern Deep Space Cyber Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:1e1b4b,80:4c1d95,100:06b6d4&height=240&section=header&text=Majd%20Nizar%20Youbine&fontSize=42&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20AI-Augmented%20Systems%20Builder&descAlignY=62&descSize=18&fontColor=ffffff&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Header" />
 
-<p><a href="https://github.com/dev-nizar-hub">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/133783774?u=5de9272e468b24525eae80e95ceefe7a054fa55a&amp;v=4" width="180" alt="Majd_nizar_youbine GitHub avatar" />
-</td>
-</tr>
-</table>
+<!-- Dynamic Cyber Typing SVG -->
+<a href="https://github.com/dev-nizar-hub">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Engineering+production-grade+SaaS+platforms;Bridging+Full-Stack+Architectures+with+AI+Vision;Turning+complex+real-world+problems+into+clean+software;Obsidian+Logic.+Relentless+Execution." alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/dev-nizar-hub?tab=repositories"><img src="https://img.shields.io/badge/Architecture-Full--Stack%20%26%20SaaS-8b5cf6?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://github.com/dev-nizar-hub"><img src="https://img.shields.io/badge/AI%20Engine-Gemini%20%26%20Vision-06b6d4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://github.com/dev-nizar-hub"><img src="https://img.shields.io/badge/Focus-High--Impact%20Software-f43f5e?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+</p>
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · CSS · JavaScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>9 contributions · 5 active days</p></td>
-</tr>
-</table>
+### ⚡ The Blueprint
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+> *"If software doesn't solve a high-stakes problem in the physical world, it's just decorative code."*
 
-<h2>Proof at a glance</h2>
+I design, build, and deploy end-to-end applications that businesses depend on daily. My core focus lies at the intersection of **performant backend engineering**, **ergonomic user experience**, and **autonomous AI workflows**.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>9</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+- 🏢 **Multi-Tenant SaaS Platforms:** Real-time restaurant POS & kitchen dispatch systems (`RestoOS / M39ODA`).
+- ⚖️ **Legal-Tech & High-Security Systems:** Sovereign judicial case registries, tamper-proof PIN audits, and multimedia evidence vaults.
+- 👁️ **Multimodal AI Integration:** Leveraging computer vision, OCR, and speech-to-text to turn physical papers and voice into structured data.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dev-nizar-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133783774%3Fu%3D5de9272e468b24525eae80e95ceefe7a054fa55a%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=dev-nizar-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133783774%3Fu%3D5de9272e468b24525eae80e95ceefe7a054fa55a%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Majd_nizar_youbine GitHub proof metrics" />
-</picture>
-</p>
+---
 
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dev-nizar-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133783774%3Fu%3D5de9272e468b24525eae80e95ceefe7a054fa55a%26v%3D4&repos=dev-nizar-hub%2Fm39oda%2Cdev-nizar-hub%2Fportfolio&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=dev-nizar-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133783774%3Fu%3D5de9272e468b24525eae80e95ceefe7a054fa55a%26v%3D4&repos=dev-nizar-hub%2Fm39oda%2Cdev-nizar-hub%2Fportfolio&v=recruiter-projects-1&mode=dark" width="100%" alt="Majd_nizar_youbine selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/dev-nizar-hub/m39oda">m39oda</a></h3>
-<p>RestoOS Cloud (M39ODA) — Système de Caisse POS &amp; KDS Cuisine Multi-Tenant SaaS pour Sandwicheries</p>
-<p><sub>PHP · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/dev-nizar-hub/m39oda">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/dev-nizar-hub/portfolio">portfolio</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dev-nizar-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133783774%3Fu%3D5de9272e468b24525eae80e95ceefe7a054fa55a%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=dev-nizar-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133783774%3Fu%3D5de9272e468b24525eae80e95ceefe7a054fa55a%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Majd_nizar_youbine technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>PHP</strong><br /><sub>77% of public code</sub></td>
-<td width="25%" align="center"><strong>CSS</strong><br /><sub>10% of public code</sub></td>
-<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>7% of public code</sub></td>
-<td width="25%" align="center"><strong>HTML</strong><br /><sub>6% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dev-nizar-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133783774%3Fu%3D5de9272e468b24525eae80e95ceefe7a054fa55a%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=dev-nizar-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133783774%3Fu%3D5de9272e468b24525eae80e95ceefe7a054fa55a%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Majd_nizar_youbine contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/dev-nizar-hub">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Majd_nizar_youbine · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+### 🛠️ Weapon of Choice (Core Stack)
