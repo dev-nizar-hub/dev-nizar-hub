@@ -5,7 +5,7 @@
 
 <!-- Dynamic Cyber Typing HUD -->
 <a href="https://github.com/dev-nizar-hub">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=J.A.R.V.I.S.+INITIALIZED+·+MARK-VII+ACTIVE;ARCHITECT%3A+MAJD+NIZAR+YOUBINE+[ROOT+CLEARANCE];DEPLOYING+ENTERPRISE+SAAS+%26+NEURAL+PIPELINES;SYSTEM+DIAGNOSTICS%3A+ALL+COGNITIVE+CIRCUITS+NOMINAL" alt="Typing J.A.R.V.I.S." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=J.A.R.V.I.S.+SYSTEM+PROTOCOL+ACTIVE;ARCHITECT%3A+MAJD+NIZAR+YOUBINE;DEPLOYING+ENTERPRISE+SAAS+PLATFORMS;ALL+COGNITIVE+CIRCUITS+100%25+NOMINAL" alt="J.A.R.V.I.S. Protocol" />
 </a>
 
 <p align="center">
